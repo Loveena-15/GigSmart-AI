@@ -137,14 +137,6 @@ pip install -r requirements.txt
 
 
 
-## Current Status
-
-- [x] Dataset preparation
-- [x] Feature engineering  
-- [x] Exploratory data analysis
-- [ ] ML model training
-- [ ] Model comparison
-- [ ] Streamlit app
 
 ## Contributors
 
