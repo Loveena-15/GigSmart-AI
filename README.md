@@ -79,7 +79,7 @@ GigSmart-AI/
 ├── notebooks/
 │   ├── dataset_prep.ipynb← Data preparation
 │   └── eda.ipynb         ← Exploratory analysis
-├── src/                  ← ML models (coming soon)
+├── src/                  ← ML models
 ├── requirements.txt
 └── README.md
 
@@ -92,7 +92,7 @@ GigSmart-AI/
 | Language | Python 3.13 |
 | Data Processing | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
-| ML Models | Scikit-learn (coming soon) |
+| ML Models | Scikit-learn  |
 | IDE | VS Code + Jupyter |
 
 ---
